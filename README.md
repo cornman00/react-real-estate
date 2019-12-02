@@ -2,10 +2,10 @@
 
 ## Here are some screenshots of the web app
 
-![GitHub Logo](/images/screenshot1)
+![GitHub Logo](/src/images/screenshot1.png)
 
-![GitHub Logo](/images/screenshot2)
+![GitHub Logo](src/images/screenshot2)
 
-![GitHub Logo](/images/screenshot3)
+![GitHub Logo](src/images/screenshot3)
 
-![GitHub Logo](/images/screenshot4)
+![GitHub Logo](src/images/screenshot4)
