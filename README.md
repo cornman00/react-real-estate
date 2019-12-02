@@ -4,8 +4,8 @@
 
 ![GitHub Logo](/src/images/screenshot1.png)
 
-![GitHub Logo](src/images/screenshot2)
+![GitHub Logo](src/images/screenshot2.png)
 
-![GitHub Logo](src/images/screenshot3)
+![GitHub Logo](src/images/screenshot3.png)
 
-![GitHub Logo](src/images/screenshot4)
+![GitHub Logo](src/images/screenshot4.png)
