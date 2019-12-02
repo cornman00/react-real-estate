@@ -24,11 +24,10 @@ export default [
       name: "2600 N Hampden Ct, Chicago",
       slug: "2600NHampden",
       type: "Buy",
-      HomeType: "apartment",
+      homeType: "apartment",
       price: "260,000",
       bed: 1,
       bath: 1,
-      capacity: 1,
       pets: false,
       featured: false,
       description:
@@ -77,25 +76,21 @@ export default [
       id: "2"
     },
     fields: {
-      name: "single basic",
-      slug: "single-basic",
+      name: "118 E Erie St, Chicago",
+      slug: "118EErie",
       type: "rent",
-      price: 150,
-      size: 250,
-      capacity: 1,
+      homeType: "apartment",
+      price: "13,800",
+      bed: 2,
+      bath: 2.5,
       pets: false,
-
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Fully - furnished 2 bed / 2.1 bath residence at The Ritz- Carlton Residences available for immediate move in.This gracious 2, 366 sq ft home features a large DeGiulio chef's kitchen with custom SieMatic cabinetry, stone countertops, & Wolf/Sub-Zero/Miele appliances. Spacious, spa-inspired baths with Kallista plumbing fixtures, marble countertops, & porcelain floors.",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "Parking: Detached Garage",
+        "Flooring: Hardwood",
+        "Appliances included in sale: Dryer, Washer"
       ],
       images: [
         {
@@ -134,25 +129,21 @@ export default [
       id: "3"
     },
     fields: {
-      name: "single standard",
-      slug: "single-standard",
-      type: "single",
-      price: 250,
-      size: 300,
-      capacity: 1,
+      name: "2944 N Broadway St Chicago",
+      slug: "2994NBroadway",
+      type: "buy",
+      homeType: "apartment",
+      price: "390,000",
+      bed: 2,
+      bath: 1,
       pets: true,
-
-      featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Gorgeous Anthropologie meets West Elm, 2 bedroom penthouse condo in East Lakeview within walking distance to the lake, Marianos, restaurants, shops, Red/ Brown / Purple El stops, Trader Joe's, the Diversey Driving Range, and more. This top-floor unit is flooded with light as it's higher than the surrounding buildings and is the perfect combination of vintage charm with modern amenities.Beautiful vintage archways, built- ins, and wood - burning fireplace.",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "Year built: 1915",
+        "Parking: 1 space",
+        "Heating: Gas",
+        "Cooling: Central"
       ],
       images: [
         {
@@ -191,25 +182,23 @@ export default [
       id: "4"
     },
     fields: {
-      name: "single deluxe",
-      slug: "single-deluxe",
-      type: "single",
-      price: 300,
-      size: 400,
-      capacity: 1,
+      name: "2753 N Hampden Ct, Chicago",
+      slug: "2753NHampden",
+      type: "buy",
+      homeType: "apartment",
+      price: "2,800,000",
+      bed: 4,
+      bath: 5,
       pets: true,
-
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "BACK ON THE MARKET and MOVE-IN READY TODAY! EXPERIENCE THE *BEST* NEW CONSTRUCTION PENTHOUSE IN EAST LINCOLN PARK! Private elevator entry, incredible 20' ceilings, natural south light. Over 3550 sqft spans 4 ensuite bedrooms, vaulted Living Area, separate Family Room with wet bar and skylights plus two large private terraces (536 sqft) on peaceful East Lincoln Park street in top-rated Alcott Elementary.",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
-        "Internet",
-        "Comfortable beds"
+        "Year built: 2019",
+        "Parking: Attached Garage",
+        "Heating: Forced Air",
+        "Cooling: Central",
+        "Sotries: 6"
       ],
       images: [
         {
