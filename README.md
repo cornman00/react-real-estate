@@ -1,4 +1,4 @@
-# Still working on this project
+# This project hasn't finished yet.
 
 ## Here are some screenshots of the web app
 
